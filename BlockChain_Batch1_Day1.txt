@@ -1,0 +1,76 @@
+Question 1: 
+What is your understanding of Blockchain? 
+
+Ans:-  A blockchain is a database  that is shared across a network of computers. Once a record has been added to the chain it is very difficult to change. To ensure all the copies of the database are the same, the network  makes constant checks. Blockchains have been used to underpin cyber-currencies like bitcoin, but many other possible uses are emerging
+
+
+-------------------------------------
+
+
+Question 2: 
+What is the core problem Blockchain trying to solve? 
+
+
+Ans:-The technology at the heart of bitcoin and other virtual currencies, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way. The ledger itself can also be programmed to trigger transactions automatically.
+
+
+------------------------------------
+
+Question 3: 
+What are the few features which Blockchain will give you? 
+
+
+Ans:-
+
+
+a. Increased Capacity--> The most remarkable thing about this Blockchain technology is that it increases the capacity of the whole network. Because of the reason that there are a lot of computers working together which in total offers a great power then few of the devices where the things are centralized.
+
+b. Better Security-->Blockchain technology has a better security because there is not even a single chance of shutting down of the system. Even the highest level of the financial system are subject to get hacked. Bitcoin in the second hand had never been hacked. the reason is that the blockchain network is secured by a number of computers called nodes and these nodes confirm the transaction on this network.
+
+c. Immutability-->Creating immutable ledgers is one of the main values of Blockchain. Any database that is centralized is subjected to get hacked and they require trust in the third party to keep the database secure. Blockchain like Bitcoin keeps its ledgers in a never-ending state of forwarding momentum.
+
+d. Faster Settlement-->Traditional banking systems can be slow, as they require a lot of settlement time which usually takes days to proceed. This is one of the main reason why these banking institutes need to upgrade their banking systems. We can solve this problem by the means of Blockchain as it can settle money transfer at really fast speeds. This ultimately saves a lot of time and money from these institutions and provide convenience to the consumer also.
+
+e. Decentralized System-->
+Decentralized technology gives you the power to store your assets in a network which further access by the means of the internet, an asset can be anything like a contract, a document etc. Through this owner has a direct control over his account by the means of a key that is linked to his account which gives the owner a power to transfer his assets to anyone he wants.
+
+f. Minting-->
+Basically, there are a lot of ways of minting a problem of manipulation that we can solve by Blockchain. If you go to the west and ask them do they trust technology there answer would be YES namely Google, Facebook or their banks but this is not the case with the other world, they do not trust these organization that much. It’s not about the places, those are rich.
+
+
+------------------------------------
+
+Question 4: 
+What all things does a Block contain? 
+
+Ans:
+Transaction data is permanently recorded in files called blocks.They can be thought of as the individual pages of a city recorder's recordbook (where changes to title to real estate are recorded) or a stock transaction ledger. Blocks are organized into a linear sequence over time (also known as the block chain). 
+New transactions are constantly being processed by miners into new blocks which are added to the end of the chain. As blocks are buried deeper and deeper into the blockchain they become harder and harder to change or remove, this gives rise of bitcoin's Irreversible Transactions.Block header consists 6 items:
+->Version	
+->hashPrevBlock	
+->hashMerkleRoot	
+->Time	
+->Bits	
+->Nonce
+
+
+mainly divided into 3 parts:
+       
+
+       --------
+       header    ->(6 items)
+       --------
+       body
+       --------
+       other info
+
+
+
+------------------------------------
+
+
+Question 5: 
+How is the verifiability of Blockchain has been attained? 
+
+Ans:
+ncrypted votes are accumulated and prepared in the form of block on each electronic polling booth at the end of polling time. The resultant block from each electronic polling booth is distributed to the authorized nodes of group for temper proof block chaining that assures the internal verifiability. The external verifiability is attained through the redistribution of temper proof Blockchain ledger to the validated and authorized nodes of auditing group. The temper proof property of electoral data is achieved using an emerging Blockchain Technology. Whereas the secure data distribution in the form of temper proof blocks and ledger amongst the authenticated group members is accomplished through the cryptographically secure group oriented scenario. The individual and universal verifiability features in our proposed scheme make the electoral process transparent, reliable and verifiable
